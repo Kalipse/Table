@@ -1,0 +1,21 @@
+table, th, td {
+border: 1px solid #000;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 25%;
+    ;
+}
+th, td {
+padding: 20px;
+font-family: sans-serif;
+text-align: left;
+font-size: 18px;
+width: 20%;
+}
+th {
+    background-color: lightgray;
+}
+
